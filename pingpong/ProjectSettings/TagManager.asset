@@ -9,6 +9,9 @@ TagManager:
   - pelota
   - leftGoal
   - rightGoal
+  - cube1
+  - cube2
+  - cube3
   layers:
   - Default
   - TransparentFX
